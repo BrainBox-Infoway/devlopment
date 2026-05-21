@@ -1,0 +1,121 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+	"sections": {
+		"banner": {
+			"type": "main-collection-banner",
+			"settings": {
+				"color_scheme": "",
+				"image": "",
+				"image_ratio": "16/9",
+				"show_collection_description": true,
+				"show_collection_image": true,
+				"image_products": "",
+				"margin_top": "no-indent",
+				"margin_bottom": "s"
+			}
+		},
+		"product-grid": {
+			"type": "main-collection-product-grid",
+			"settings": {
+				"products_per_page": 12,
+				"columns": 3,
+				"image_ratio": "5/4",
+				"image_fit": "cover",
+				"show_secondary_image": true,
+				"show_vendor": false,
+				"show_desc": false,
+				"enable_filtering": true,
+				"filter_type": "horizontal_united",
+				"enable_sorting": true,
+				"columns_mobile": "1",
+				"padding_top": "no-indent",
+				"padding_bottom": "l"
+			}
+		},
+		"d75c40e7-4781-423a-a8c1-a6f08964fe67": {
+			"type": "hero",
+			"blocks": {
+				"template--15335004602429__d75c40e7-4781-423a-a8c1-a6f08964fe67-subtitle-1": {
+					"type": "subtitle",
+					"settings": {
+						"subheading": "The Best Platform 2023",
+						"subheading_style": "subtitle subtitle--secondary",
+						"subheading_icon": "star"
+					}
+				},
+				"template--15335004602429__d75c40e7-4781-423a-a8c1-a6f08964fe67-title-1": {
+					"type": "title",
+					"settings": {
+						"heading": "Your Trusted Partner in Modern Tech Troubleshooting and Maintenance",
+						"heading_size": "h1",
+						"heading_line": "simple",
+						"line_color": "#1566e0",
+						"word_break": false,
+						"heading_animation": "none",
+						"word_break_an": false
+					}
+				},
+				"template--15335004602429__d75c40e7-4781-423a-a8c1-a6f08964fe67-description-1": {
+					"type": "description",
+					"settings": {
+						"description": "Say goodbye to complications and hello to an efficient approach."
+					}
+				},
+				"template--15335004602429__d75c40e7-4781-423a-a8c1-a6f08964fe67-buttons-1": {
+					"type": "buttons",
+					"settings": {
+						"show_button_1": true,
+						"button_label_1": "Shop All",
+						"button_link_1": "",
+						"button_style_1": "primary",
+						"show_button_2": false,
+						"button_label_2": "Label",
+						"button_link_2": "",
+						"button_style_2": "simple"
+					}
+				},
+				"c2b108b3-8c04-4f56-9d63-a6741bf282b6": {
+					"type": "users",
+					"settings": {
+						"user_text": "89% of Customers Recommend Digital Services"
+					}
+				}
+			},
+			"block_order": [
+				"template--15335004602429__d75c40e7-4781-423a-a8c1-a6f08964fe67-subtitle-1",
+				"template--15335004602429__d75c40e7-4781-423a-a8c1-a6f08964fe67-title-1",
+				"template--15335004602429__d75c40e7-4781-423a-a8c1-a6f08964fe67-description-1",
+				"template--15335004602429__d75c40e7-4781-423a-a8c1-a6f08964fe67-buttons-1",
+				"c2b108b3-8c04-4f56-9d63-a6741bf282b6"
+			],
+			"settings": {
+				"layout": "overlay",
+				"header_overlay": false,
+				"header_transparent": false,
+				"block_type": "subtle",
+				"color_scheme": "",
+				"full_screen": true,
+				"image": "",
+				"overlay_opacity": 0.6,
+				"image_ratio": "adapt",
+				"object_fit": "cover",
+				"desktop_image_position": "after",
+				"mobile_image_position": "after",
+				"mobile_image_overlay": "overlay",
+				"horizontal_alignment": "center",
+				"vertical_alignment": "bottom",
+				"padding_top": "no-indent",
+				"padding_bottom": "no-indent"
+			}
+		}
+	},
+	"order": ["banner", "product-grid", "d75c40e7-4781-423a-a8c1-a6f08964fe67"]
+}

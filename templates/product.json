@@ -1,0 +1,685 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+	"sections": {
+		"main": {
+			"type": "main-product",
+			"blocks": {
+				"vendor": {
+					"type": "text",
+					"settings": {
+						"text": ""
+					}
+				},
+				"title": {
+					"type": "title",
+					"settings": {
+						"heading_size": "h3"
+					}
+				},
+				"price": {
+					"type": "price",
+					"settings": {}
+				},
+				"description": {
+					"type": "description",
+					"settings": {
+						"description": ""
+					}
+				},
+				"tags": {
+					"type": "tags",
+					"settings": {}
+				},
+				"variant_picker": {
+					"type": "variant_picker",
+					"settings": {
+						"picker_type": "button"
+					}
+				},
+				"inventory": {
+					"type": "inventory",
+					"settings": {}
+				},
+				"buy_buttons": {
+					"type": "buy_buttons",
+					"settings": {
+						"show_dynamic_checkout": true,
+						"show_quantity": true,
+						"show_gift_card_recipient": false
+					}
+				},
+				"pickup_availability": {
+					"type": "pickup_availability",
+					"settings": {}
+				},
+				"dcc96485-1c00-4118-bee1-7a5f8fc2e773": {
+					"type": "dropdown_information",
+					"settings": {
+						"characteristics": false,
+						"heading": "About Product",
+						"description": "<p>Discover a service store that offers a wide range of expert solutions to meet your needs. Whether you require professional advice, assistance, or support, our dedicated team is here to help. With a focus on customer satisfaction, we strive to provide exceptional service and ensure that every interaction leaves you feeling satisfied. Trust in our expertise and let us assist you in finding the perfect solution for your requirements.</p>",
+						"button_show": false,
+						"button_label": "Button label",
+						"button_link": "",
+						"default_open": false
+					}
+				},
+				"53f2459b-0c89-4767-84f2-fb3728cae5cc": {
+					"type": "dropdown_information",
+					"settings": {
+						"characteristics": false,
+						"heading": "Quality",
+						"description": "<p>At our service store, we prioritize quality in everything we do. From the expert advice we provide to the solutions we offer, our commitment to delivering excellence is unwavering. We understand the importance of providing reliable and high-quality services that meet your expectations. Our team of experienced professionals is dedicated to ensuring that you receive top-notch service and support. Rest assured that when you choose our service store, you're choosing a commitment to quality that you can rely on.</p>",
+						"button_show": false,
+						"button_label": "Button label",
+						"button_link": "",
+						"default_open": false
+					}
+				},
+				"text_with_icon": {
+					"type": "text_with_icon",
+					"settings": {
+						"show_text_with_icon_1": true,
+						"icon_1": "user-4",
+						"text_1": "Expert Consultation",
+						"show_text_with_icon_2": true,
+						"icon_2": "book",
+						"text_2": "All-In Solutions",
+						"box_shadow": true,
+						"icon_style": "colored",
+						"icon_fill_type": "gradient"
+					}
+				},
+				"2da23799-fb90-491f-885f-45ee6e0acc82": {
+					"type": "text_with_icon",
+					"settings": {
+						"show_text_with_icon_1": true,
+						"icon_1": "clock-2",
+						"text_1": "Timely Support",
+						"show_text_with_icon_2": true,
+						"icon_2": "settings",
+						"text_2": "Flexible Options",
+						"box_shadow": true,
+						"icon_style": "colored",
+						"icon_fill_type": "gradient"
+					}
+				},
+				"f0f74ff5-4bb5-41ac-bbc7-dfa20718128c": {
+					"type": "text_with_icon",
+					"settings": {
+						"show_text_with_icon_1": true,
+						"icon_1": "chart",
+						"text_1": "Professional Expertise",
+						"show_text_with_icon_2": true,
+						"icon_2": "laptop-2",
+						"text_2": "Happy Assurance",
+						"box_shadow": true,
+						"icon_style": "colored",
+						"icon_fill_type": "gradient"
+					}
+				},
+				"38bbfc9f-1256-4cc2-880c-7bda459b889f": {
+					"type": "share",
+					"settings": {
+						"share_label": "Share",
+						"show_share_facebook": true,
+						"show_share_twitter": true,
+						"show_share_pinterest": true,
+						"show_share_copy": true
+					}
+				}
+			},
+			"block_order": [
+				"vendor",
+				"title",
+				"price",
+				"description",
+				"tags",
+				"variant_picker",
+				"inventory",
+				"buy_buttons",
+				"pickup_availability",
+				"dcc96485-1c00-4118-bee1-7a5f8fc2e773",
+				"53f2459b-0c89-4767-84f2-fb3728cae5cc",
+				"text_with_icon",
+				"2da23799-fb90-491f-885f-45ee6e0acc82",
+				"f0f74ff5-4bb5-41ac-bbc7-dfa20718128c",
+				"38bbfc9f-1256-4cc2-880c-7bda459b889f"
+			],
+			"settings": {
+				"desktop_alignment": "right",
+				"mobile_alignment": "before",
+				"gallery_type": "stacked_gallery",
+				"aspect_ratio": "5/4",
+				"image_fit": "cover",
+				"image_fit_modal": "contain",
+				"padding_bottom": "l"
+			}
+		},
+		"576dad4a-7ffe-4bdd-9a60-a4572834977d": {
+			"type": "multicolumn",
+			"blocks": {
+				"template--15335004602429__1840f659-9e9b-46bd-8ddd-3391928fde1b-column-1": {
+					"type": "column",
+					"settings": {
+						"icon": "none",
+						"icon_color_scheme": "",
+						"icon_fill_type": "gradient",
+						"image": "",
+						"heading": "Customized Solutions",
+						"text": "<p>Personalized service that addresses your unique requirements.</p>",
+						"show_button": false,
+						"button_label": "Label",
+						"button_link": "",
+						"button_style": "simple"
+					}
+				},
+				"template--15335004602429__1840f659-9e9b-46bd-8ddd-3391928fde1b-column-2": {
+					"type": "column",
+					"settings": {
+						"icon": "none",
+						"icon_color_scheme": "",
+						"icon_fill_type": "gradient",
+						"image": "",
+						"heading": "Quick Turnaround Time",
+						"text": "<p>Ensuring that your needs are met within a quick turnaround time.</p>",
+						"show_button": false,
+						"button_label": "Label",
+						"button_link": "",
+						"button_style": "simple"
+					}
+				},
+				"template--15335004602429__1840f659-9e9b-46bd-8ddd-3391928fde1b-column-3": {
+					"type": "column",
+					"settings": {
+						"icon": "none",
+						"icon_color_scheme": "",
+						"icon_fill_type": "gradient",
+						"image": "",
+						"heading": "Competitive Pricing",
+						"text": "<p>Providing you with quality service at a price that fits your budget.</p>",
+						"show_button": false,
+						"button_label": "Label",
+						"button_link": "",
+						"button_style": "simple"
+					}
+				}
+			},
+			"block_order": [
+				"template--15335004602429__1840f659-9e9b-46bd-8ddd-3391928fde1b-column-1",
+				"template--15335004602429__1840f659-9e9b-46bd-8ddd-3391928fde1b-column-2",
+				"template--15335004602429__1840f659-9e9b-46bd-8ddd-3391928fde1b-column-3"
+			],
+			"settings": {
+				"section_type": "transparent",
+				"color_scheme": "background-2",
+				"enable_border": false,
+				"border_full": false,
+				"multicolumn_to_show": 3,
+				"gap": "small",
+				"subheading": "Details",
+				"subheading_style": "subtitle",
+				"subheading_icon": "none",
+				"heading": "Commitment to Clarity and Transparency",
+				"heading_size": "h2",
+				"heading_line": "simple",
+				"line_color": "#1566e0",
+				"word_break": false,
+				"heading_animation": "none",
+				"word_break_an": false,
+				"text": "",
+				"text_align": "left",
+				"icon_size": "recommended",
+				"box_shadow": true,
+				"icon_style": "colored",
+				"image_width": "full-width",
+				"image_ratio": "square",
+				"object_fit": "cover",
+				"card_heading_size": "h5",
+				"padding_top": "l",
+				"padding_bottom": "l",
+				"margin_top": "no-indent",
+				"margin_bottom": "no-indent"
+			}
+		},
+		"6284d95d-0127-47a7-b977-2a630c6f9383": {
+			"type": "numbers",
+			"blocks": {
+				"template--15231063359549__6284d95d-0127-47a7-b977-2a630c6f9383-column-1": {
+					"type": "column",
+					"settings": {
+						"number": "24 hours",
+						"heading": "Fast Repairs",
+						"description": "Strive to minimize your device's downtime and get it back to you in no time.",
+						"icon": "battery-3",
+						"icon_color": "subtle",
+						"icon_fill_type": "gradient",
+						"show_button": false,
+						"button_label": "Label",
+						"button_link": ""
+					}
+				},
+				"template--15231063359549__6284d95d-0127-47a7-b977-2a630c6f9383-column-2": {
+					"type": "column",
+					"settings": {
+						"number": "97%",
+						"heading": "Data Recovery Date",
+						"description": "Advanced techniques to recover data from various devices and storage media.",
+						"icon": "computer",
+						"icon_color": "subtle",
+						"icon_fill_type": "solid",
+						"show_button": false,
+						"button_label": "Label",
+						"button_link": ""
+					}
+				},
+				"template--15231063359549__6284d95d-0127-47a7-b977-2a630c6f9383-column-3": {
+					"type": "column",
+					"settings": {
+						"number": "99.9%",
+						"heading": "Network Uptime",
+						"description": "Strive to minimize disruptions and keep your business operating efficiently.",
+						"icon": "check-3",
+						"icon_color": "subtle",
+						"icon_fill_type": "solid",
+						"show_button": false,
+						"button_label": "Label",
+						"button_link": ""
+					}
+				}
+			},
+			"block_order": [
+				"template--15231063359549__6284d95d-0127-47a7-b977-2a630c6f9383-column-1",
+				"template--15231063359549__6284d95d-0127-47a7-b977-2a630c6f9383-column-2",
+				"template--15231063359549__6284d95d-0127-47a7-b977-2a630c6f9383-column-3"
+			],
+			"settings": {
+				"layout": "columns",
+				"block_type": "subtle",
+				"columns_to_row": 3,
+				"color_scheme": "",
+				"enable_border": false,
+				"border_full": false,
+				"subheading": "Performance",
+				"subheading_style": "subtitle",
+				"subheading_icon": "none",
+				"heading": "Delivering Excellence in Tech Services",
+				"heading_line": "simple",
+				"line_color": "#1566e0",
+				"word_break": false,
+				"text": "Experience the perfect blend of form and function, crafted for the modern age.",
+				"text_align": "left",
+				"number_size": "recommended",
+				"icon_size": "recommended",
+				"card_heading_size": "recommended",
+				"number_size_first": "large",
+				"icon_size_first": "extra-large",
+				"card_heading_size_first": "h4",
+				"padding_top": "l",
+				"padding_bottom": "l"
+			}
+		},
+		"7dba930a-4503-4b98-ad20-1d9ec5fe1eac": {
+			"type": "slideshow",
+			"blocks": {
+				"template--15231063785533__59c2a073-1c05-4ba6-8228-ac87d36b0076-slide-1": {
+					"type": "slide",
+					"settings": {
+						"color_scheme": "",
+						"icon": "chats",
+						"image": "",
+						"overlay_opacity": 0.3,
+						"show_video": false,
+						"loop_video": true,
+						"heading": "Interactive Chat",
+						"heading_size": "recommended",
+						"description": "Real-time communication capabilities, enhancing user engagement and support. This tool is designed for providing a platform for quick queries, feedback, and interactive customer service.",
+						"tab_heading": "Heading",
+						"show_button": false,
+						"button_style": "simple_link",
+						"button_label": "Shop Now",
+						"button_link": ""
+					}
+				},
+				"template--15231063785533__59c2a073-1c05-4ba6-8228-ac87d36b0076-slide-2": {
+					"type": "slide",
+					"settings": {
+						"color_scheme": "",
+						"icon": "stack",
+						"image": "",
+						"overlay_opacity": 0.3,
+						"show_video": false,
+						"loop_video": true,
+						"heading": "Integrated Stack",
+						"heading_size": "recommended",
+						"description": "Refers to the seamless integration of various software tools and applications within the service. Promotes a unified workflow, reducing the need for multiple platforms and streamlining processes.",
+						"tab_heading": "Heading",
+						"show_button": false,
+						"button_style": "simple_link",
+						"button_label": "Shop Now",
+						"button_link": ""
+					}
+				},
+				"99602783-31ed-464e-b990-f524041efea0": {
+					"type": "slide",
+					"settings": {
+						"color_scheme": "background-3",
+						"icon": "chart-2",
+						"image": "",
+						"overlay_opacity": 0.3,
+						"show_video": false,
+						"loop_video": true,
+						"heading": "Advanced Statistics",
+						"heading_size": "recommended",
+						"description": "In-depth statistical analysis, offering users a detailed overview of their activities, trends, and performance metrics. It's an invaluable tool for data-driven decision-making, helping users to analyze complex data sets with ease.",
+						"tab_heading": "Heading",
+						"show_button": false,
+						"button_style": "simple_link",
+						"button_label": "Shop Now",
+						"button_link": ""
+					}
+				},
+				"0ea01af6-b55f-434d-bb8e-feadead05b6b": {
+					"type": "slide",
+					"settings": {
+						"color_scheme": "background-3",
+						"icon": "lightning-bolt-1",
+						"image": "",
+						"overlay_opacity": 0.3,
+						"show_video": false,
+						"loop_video": true,
+						"heading": "Dynamic Functionality",
+						"heading_size": "recommended",
+						"description": "Highlights the service's adaptability and range of features that cater to a diverse set of user needs. This characteristic underscores the service's ability to evolve and offer versatile, user-centric solutions.",
+						"tab_heading": "Heading",
+						"show_button": false,
+						"button_style": "simple_link",
+						"button_label": "Shop Now",
+						"button_link": ""
+					}
+				}
+			},
+			"block_order": [
+				"template--15231063785533__59c2a073-1c05-4ba6-8228-ac87d36b0076-slide-1",
+				"template--15231063785533__59c2a073-1c05-4ba6-8228-ac87d36b0076-slide-2",
+				"99602783-31ed-464e-b990-f524041efea0",
+				"0ea01af6-b55f-434d-bb8e-feadead05b6b"
+			],
+			"settings": {
+				"layout": "overlay",
+				"full_width": true,
+				"color_scheme": "",
+				"enable_border": false,
+				"border_full": false,
+				"subheading": "",
+				"subheading_style": "subtitle",
+				"subheading_icon": "none",
+				"heading": "",
+				"heading_size": "h2",
+				"heading_line": "simple",
+				"line_color": "#1566e0",
+				"word_break": false,
+				"text": "",
+				"heading_animation": "none",
+				"word_break_an": false,
+				"text_align": "left",
+				"height": "adapt",
+				"text_align_content": "top-left",
+				"enable_autoplay": true,
+				"enable_parallax": false,
+				"enable_pagination": true,
+				"pagination_type": "numbers",
+				"pagination_color_scheme": "",
+				"pagination_width": "medium",
+				"enable_navigation": false,
+				"navigation_color_scheme": "",
+				"slide_duration": 5,
+				"icon_size": "recommended",
+				"icon_style": "contrast",
+				"icon_fill_type": "solid",
+				"show_tab_icon": true,
+				"padding_top": "no-indent",
+				"padding_bottom": "no-indent",
+				"margin_top": "no-indent",
+				"margin_bottom": "no-indent"
+			}
+		},
+		"ac1a2f01-d017-4134-85c1-3684b4c5051f": {
+			"type": "testimonials",
+			"blocks": {
+				"block_1": {
+					"type": "testimonials_slide",
+					"settings": {
+						"rating": 5,
+						"slide_text": "“The new interface is incredibly user-friendly! I was able to navigate through the platform effortlessly and get my tasks done in half the usual time. The features are intuitive, and the design is sleek. Great job on the updates!”",
+						"image": "",
+						"slide_name": "Sarah Thompson",
+						"slide_position": "UX/UI designer"
+					}
+				},
+				"block_2": {
+					"type": "testimonials_slide",
+					"settings": {
+						"rating": 5,
+						"slide_text": "“While I appreciate the added functionalities in the recent release, I've noticed a few minor glitches when trying to export reports. I hope these can be addressed in the next patch. Otherwise, the platform has been beneficial for our team's workflow.”",
+						"image": "",
+						"slide_name": "Raj Patel",
+						"slide_position": "Developer"
+					}
+				},
+				"block_3": {
+					"type": "testimonials_slide",
+					"settings": {
+						"rating": 5,
+						"slide_text": "“I've been using this platform for the past year, and the recent improvements have significantly enhanced its efficiency. The customer support team has also been incredibly responsive to my queries. It's evident that the company values its users. Keep up the good work!”",
+						"image": "",
+						"slide_name": "Elena Rodriguez",
+						"slide_position": "Product Manager"
+					}
+				}
+			},
+			"block_order": ["block_1", "block_2", "block_3"],
+			"settings": {
+				"layout": "full_slider",
+				"color_scheme": "",
+				"subheading": "Testimonials",
+				"subheading_style": "subtitle",
+				"subheading_icon": "none",
+				"heading": "Discover What Our Users Say",
+				"heading_size": "h2",
+				"heading_line": "simple",
+				"line_color": "#1566e0",
+				"word_break": false,
+				"heading_animation": "none",
+				"word_break_an": false,
+				"text": "Discover the genuine experiences and feedback directly from our users.",
+				"text_align": "left",
+				"slide_color_scheme": "",
+				"slide_text_size": "recommended",
+				"enable_navigation": true,
+				"enable_navigation_mobile": false,
+				"navigation_color_scheme": "",
+				"enable_pagination": true,
+				"enable_pagination_mobile": true,
+				"pagination_color_scheme": "",
+				"padding_top": "l",
+				"padding_bottom": "l",
+				"margin_top": "no-indent",
+				"margin_bottom": "no-indent"
+			}
+		},
+		"e5f7be64-dfcd-4ad6-a061-77426809bbdc": {
+			"type": "multirow",
+			"blocks": {
+				"template--15231063359549__1c56f2e1-2448-426b-b16d-913a45f3f050-column-1": {
+					"type": "column",
+					"settings": {
+						"icon": "lightning-bolt-1",
+						"icon_color_scheme": "",
+						"icon_fill_type": "gradient",
+						"image": "",
+						"show_video": false,
+						"autoplay_video": true,
+						"muted_video": true,
+						"loop_video": true,
+						"heading": "Together We Can Navigate the Ever-Evolving Landscape of Technology",
+						"heading_line": "simple",
+						"line_color": "#1566e0",
+						"word_break": false,
+						"text": "<p>Don't let technology challenges hold you back. Contact us today and let us empower you with reliable and secure tech solutions that unlock your full potential in the digital world.</p>",
+						"show_button": true,
+						"button_label": "Shop Now",
+						"button_link": "",
+						"button_style": "primary"
+					}
+				}
+			},
+			"block_order": [
+				"template--15231063359549__1c56f2e1-2448-426b-b16d-913a45f3f050-column-1"
+			],
+			"settings": {
+				"section_type": "transparent",
+				"color_scheme": "background-2",
+				"subheading": "",
+				"subheading_style": "subtitle",
+				"subheading_icon": "none",
+				"heading": "",
+				"heading_size": "h2",
+				"heading_line": "simple",
+				"line_color": "#1566e0",
+				"word_break": false,
+				"heading_animation": "none",
+				"word_break_an": false,
+				"text": "",
+				"text_align": "left",
+				"icon_size": "recommended",
+				"box_shadow": true,
+				"icon_style": "colored",
+				"image_alignment": "right",
+				"image_width": "large",
+				"image_ratio": "landscape",
+				"object_fit": "cover",
+				"card_heading_size": "h2",
+				"padding_top": "l",
+				"padding_bottom": "l",
+				"margin_top": "no-indent",
+				"margin_bottom": "no-indent"
+			}
+		},
+		"product-recommendations": {
+			"type": "product-recommendations",
+			"settings": {
+				"color_scheme": "background-1",
+				"subheading": "Recommended",
+				"subheading_style": "subtitle",
+				"subheading_icon": "none",
+				"heading": "You May Also Like",
+				"heading_size": "h2",
+				"text": "Make confident choices and discover the best solutions.",
+				"products_limit": 6,
+				"image_ratio": "5/4",
+				"image_fit": "cover",
+				"show_secondary_image": true,
+				"show_vendor": false,
+				"show_desc": false,
+				"padding_top": "l",
+				"padding_bottom": "l"
+			}
+		},
+		"33f4cee3-e74f-48cc-b732-90750953951d": {
+			"type": "hero",
+			"blocks": {
+				"template--15335004602429__d75c40e7-4781-423a-a8c1-a6f08964fe67-subtitle-1": {
+					"type": "subtitle",
+					"settings": {
+						"subheading": "The Best Platform 2023",
+						"subheading_style": "subtitle subtitle--secondary",
+						"subheading_icon": "star"
+					}
+				},
+				"template--15335004602429__d75c40e7-4781-423a-a8c1-a6f08964fe67-title-1": {
+					"type": "title",
+					"settings": {
+						"heading": "Your Trusted Partner in Modern Tech Troubleshooting and Maintenance",
+						"heading_size": "h1",
+						"heading_line": "simple",
+						"line_color": "#1566e0",
+						"word_break": false,
+						"heading_animation": "none",
+						"word_break_an": false
+					}
+				},
+				"template--15335004602429__d75c40e7-4781-423a-a8c1-a6f08964fe67-description-1": {
+					"type": "description",
+					"settings": {
+						"description": "Say goodbye to complications and hello to an efficient approach."
+					}
+				},
+				"template--15335004602429__d75c40e7-4781-423a-a8c1-a6f08964fe67-buttons-1": {
+					"type": "buttons",
+					"settings": {
+						"show_button_1": true,
+						"button_label_1": "Shop All",
+						"button_link_1": "",
+						"button_style_1": "primary",
+						"show_button_2": false,
+						"button_label_2": "Label",
+						"button_link_2": "",
+						"button_style_2": "simple"
+					}
+				},
+				"c2b108b3-8c04-4f56-9d63-a6741bf282b6": {
+					"type": "users",
+					"settings": {
+						"user_text": "89% of Customers Recommend Digital Services"
+					}
+				}
+			},
+			"block_order": [
+				"template--15335004602429__d75c40e7-4781-423a-a8c1-a6f08964fe67-subtitle-1",
+				"template--15335004602429__d75c40e7-4781-423a-a8c1-a6f08964fe67-title-1",
+				"template--15335004602429__d75c40e7-4781-423a-a8c1-a6f08964fe67-description-1",
+				"template--15335004602429__d75c40e7-4781-423a-a8c1-a6f08964fe67-buttons-1",
+				"c2b108b3-8c04-4f56-9d63-a6741bf282b6"
+			],
+			"settings": {
+				"layout": "overlay",
+				"header_overlay": false,
+				"header_transparent": false,
+				"block_type": "subtle",
+				"color_scheme": "",
+				"full_screen": true,
+				"image": "",
+				"show_video": false,
+				"overlay_opacity": 0.6,
+				"image_ratio": "adapt",
+				"object_fit": "cover",
+				"desktop_image_position": "after",
+				"mobile_image_position": "after",
+				"mobile_image_overlay": "overlay",
+				"horizontal_alignment": "center",
+				"vertical_alignment": "bottom",
+				"padding_top": "no-indent",
+				"padding_bottom": "no-indent"
+			}
+		}
+	},
+	"order": [
+		"main",
+		"576dad4a-7ffe-4bdd-9a60-a4572834977d",
+		"6284d95d-0127-47a7-b977-2a630c6f9383",
+		"7dba930a-4503-4b98-ad20-1d9ec5fe1eac",
+		"ac1a2f01-d017-4134-85c1-3684b4c5051f",
+		"e5f7be64-dfcd-4ad6-a061-77426809bbdc",
+		"product-recommendations",
+		"33f4cee3-e74f-48cc-b732-90750953951d"
+	]
+}
